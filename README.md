@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-* 🎓 BSc IT / BCA Student
+* 🎓 BCA Student
 * 📊 Passionate about **Big Data Analytics & Machine Learning**
 * 💻 Skilled in **Full Stack Development & Data Analysis**
 * 🧠 Currently learning **Advanced ML, Cloud & System Design**
